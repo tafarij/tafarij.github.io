@@ -8,6 +8,10 @@
 	display:inline;
 }
 
+.post-meta a {
+    text-decoration: underline;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
