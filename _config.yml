@@ -1,6 +1,6 @@
 name: Tafari Johnson
-description: ... I do what I can
-meta_description: "Tafari Johnson, ... I do what I can"
+description: ""
+meta_description: "Tafari Johnson"
 
 markdown: kramdown
 highlighter: pygments
@@ -17,3 +17,4 @@ author:         'Tafari Johnson'
 
 # custom stuff
 date_format: "%B %d, %Y"
+gravatar: "//gravatar.com/avatar/7dd92275921ceb134aa21d789900b499.png"
